@@ -4,3 +4,5 @@
 
 Все файлы прикреплены, кроме "berted_corp.pt", так как он слишком большой. Ссылка на него: https://drive.google.com/file/d/1-8xUU1lhJprOYMepJda9C549lt4m6rhe/view?usp=sharing
 Также "data.jsonl" : https://drive.google.com/file/d/1igFNSaP7LzOenLl8gyi-x9dpwqjXmYpk/view?usp=sharing
+
+Для запуска нужно запустить main.py, чтобы все заргузилось, затем PyCharm выдаст команду, которую нужно ввести в командную строку (наподобие этого: streamlit run C:\Users\marga\PycharmProjects\project_infosearch\main.py [ARGUMENTS] ).
