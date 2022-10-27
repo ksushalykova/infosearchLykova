@@ -1,2 +1,2 @@
 # infosearchLykova
-homework for info_search &amp; database
+homework and project for info_search &amp; database
